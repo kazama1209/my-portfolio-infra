@@ -1,6 +1,6 @@
 ## my-portfolio-infra
 
-「[my-portfolio](https://github.com/kazama1209/my-portfolio)」vのインフラ構築用コード。
+「[my-portfolio](https://github.com/kazama1209/my-portfolio)」のインフラ構築用コード。
 
 ## セットアップ
 
